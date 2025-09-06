@@ -1,6 +1,4 @@
-Here’s a clean **README.md** you can use to document your Ubuntu Docker setup script:
 
-````markdown
 # Docker Setup on Ubuntu
 
 This guide provides steps to install and configure **Docker** on an Ubuntu server.
